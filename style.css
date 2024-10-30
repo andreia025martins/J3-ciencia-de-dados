@@ -51,11 +51,17 @@ body {
     text-align: center;
     padding: 2rem;
     border: var(--secundary-color) solid 2px;
+    color: black;
   }
 
   #graficos-container {
     margin: 5rem;
   }
+
+  span{
+    font-weight: bold;
+    color: var(--secundary-color);
+}
 
   footer {
     display: flex;
